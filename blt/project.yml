@@ -1,6 +1,6 @@
 project:
   machine_name: greenmachine
-  prefix: BLT
+  prefix: GREEN
   human_name: 'Green Machine'
   profile:
     name: lightning
